@@ -18,6 +18,7 @@ TypeScript의 정적 타입 검사에 대해 공부하였으며,
 ```bash
 $ npm install
 $ npm start
+```
 
 ## 참고자료
 - PoiemaWeb - TypeScript Class
