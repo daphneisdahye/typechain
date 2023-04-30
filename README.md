@@ -20,8 +20,8 @@ $ npm install
 $ npm start
 ```
 
-## 参考資料
-- [PoiemaWeb - TypeScript Class](https://poiemaweb.com/typescript-class)<br>
+## ETC 
+- [参考資料:TypeScript Handbook](https://www.typescriptlang.org/ko/docs/handbook/intro.html)<br>
 - JavaScriptにTypeScriptの.d.tsファイルを追加する<br>
 https://github.com/DefinitelyTyped/DefinitelyTyped <br>
 npm i -D dev @types/node
@@ -55,8 +55,8 @@ $ npm install
 $ npm start
 ```
 
-## 참고자료
-- [PoiemaWeb - TypeScript Class](https://poiemaweb.com/typescript-class)<br>
+## 비고
+- [참고자료:TypeScript Handbook](https://www.typescriptlang.org/ko/docs/handbook/intro.html)<br>
 - Javascript에 typescript .d.ts.파일 추가하기<br>
 https://github.com/DefinitelyTyped/DefinitelyTyped <br>
 npm i -D dev @types/node
