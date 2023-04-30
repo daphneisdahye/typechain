@@ -21,7 +21,7 @@ $ npm start
 ```
 
 ## 참고자료
-- [PoiemaWeb - TypeScript Class](https://poiemaweb.com/typescript-class)
+- [PoiemaWeb - TypeScript Class](https://poiemaweb.com/typescript-class)<br>
 Javascript에 typescript .d.ts.파일 추가하기
 - https://github.com/DefinitelyTyped/DefinitelyTyped <br>
 - npm i -D dev @types/node
