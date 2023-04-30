@@ -24,13 +24,13 @@ $ npm start
 https://github.com/DefinitelyTyped/DefinitelyTyped <br>
 npm i -D dev @types/node
 
-
-
-
+<br>
+<br>
+<br>
 _______________________________________________________________________________________________________________
 
-
-
+<br>
+<br>
 
 # TypeScript Blockchain Practice
 
